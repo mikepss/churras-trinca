@@ -1,0 +1,12 @@
+.header {
+  background-color: #FFD836;
+  background-image: url('/images/background.png');
+  background-repeat: repeat-x;
+  background-position: top;
+  padding: 50px;
+  text-align: center;
+}
+
+.header h4 {
+  font-weight: bold;
+}

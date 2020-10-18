@@ -1,0 +1,85 @@
+.icon {
+  color: #FFD836;
+}
+
+
+.blocks {
+  margin-top: -30px;
+  padding: 0px 50px 50px 50px;
+}
+
+.block-event {
+  background-color: #FFFFFF;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.06);
+  border-radius: 2px;
+  padding: 20px;
+  margin-bottom: 25px;
+  cursor: pointer;
+  transition: 0.6s;
+}
+
+.block-event:hover {
+  background-color: #FFD836;
+  transition: 0.6s;
+}
+
+.block-event:hover .icon{
+  color: #000;
+  transition: 0.6s;
+}
+
+.block-event .date {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.block-event .description {
+  height: 100px;
+  overflow: none;
+}
+
+.event-infos {
+  font-weight: bold;
+}
+
+.block-new-event {
+  margin-bottom: 25px;
+  padding: 20px;
+  background-color: #F1F1F1;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.06);
+  border-radius: 2px;
+  height: 196px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.block-new-event:hover {
+  background-color: #FFD836;
+  transition: 0.5s;
+}
+
+.block-new-event:hover .icon-churras{
+  background-color: #F1F1F1;
+  transition: 0.5s;
+}
+
+.icon-churras {
+  background-color: #FFD836;
+  padding: 10px;
+  border-radius: 100px;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  transition: 0.5s;
+}
+
+.text-churras-btn {
+  font-weight: bold;
+}

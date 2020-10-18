@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  src: url('/fonts/Raleway.ttf');
+  font-family: 'Raleway';
+}
+
+@font-face {
+  src: url('/fonts/Raleway-Italic.ttf');
+  font-family: 'Raleway-Italic';
+}
+
+body {
+  background-color: #FFF;
+  font-family: 'Raleway';
+}
+
+html, body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+a {
+  color: #000;
+  text-decoration: none;;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: none;;
+}
