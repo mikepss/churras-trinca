@@ -1,9 +1,9 @@
-##Rotas da API:
+## Rotas da API:
 
 > POST /sessions
 Faz a autenticação do sistema (e-mail e senha) utilizando Bearer Token
 
-####As rotas abaixo só funcionam enviando o token de autenticação no cabeçalho.
+#### As rotas abaixo só funcionam enviando o token de autenticação no cabeçalho.
 
 > GET /appointments
 Busca todos os eventos cadastrados
