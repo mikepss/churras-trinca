@@ -17,3 +17,13 @@ Realiza o cadastro de um novo evento
 > POST /users
 
 Realiza o cadastro de um usuário
+
+#### Para inicializar o servidor basta rodar os comandos:
+
+Para carregar as dependencias:
+
+>yarn
+
+Para inicializar o servidor:
+
+>yarn dev:server
