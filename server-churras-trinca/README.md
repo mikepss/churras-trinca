@@ -1,5 +1,4 @@
 ## Rotas da API:
-|
 
 > POST /sessions
 
